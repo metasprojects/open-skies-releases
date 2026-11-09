@@ -7,7 +7,8 @@ on Earth and it builds the terrain, coastline, roads, towns, forests and airbase
 **Easiest install: the Nuclear Option Mod Manager (NOMM).** Tick NOCustomMaps and the map. Manual install: unzip the
 map's `.nomapz` into `BepInEx/plugins/NOCustomMaps/maps/` (NOCustomMaps 1.4.2 or newer).
 
-**Missions:** each map has four (free flight, a strike, a main battle, PvP escalation). Download the map's
+**Missions:** each map has four (free flight, a strike, a main battle, PvP escalation). Subscribe to them on the
+Steam Workshop (each map's release links them), or download the map's
 `<map>-missions.zip` from its release and unzip it into `%USERPROFILE%\AppData\LocalLow\Shockfront\NuclearOption\Missions\`.
 
 | Map | Release tag | Map file | Size | Missions | Registers as |
