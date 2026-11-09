@@ -4,17 +4,19 @@ Map files for the Open Skies series of real-world maps for Nuclear Option. Every
 **[Open Skies](https://github.com/metasprojects/open-skies)**, our free, open-source (MIT) map maker: pick a place
 on Earth and it builds the terrain, coastline, roads, towns, forests and airbases from open data. Make your own.
 
-**Easiest install: the Nuclear Option Mod Manager (NOMM).** Tick NOCustomMaps and the map; the missions are on
-the Steam Workshop: [Open Skies collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3835758544). Manual install: unzip the map's `.nomapz` into `BepInEx/plugins/NOCustomMaps/maps/`
-(NOCustomMaps 1.4.2 or newer).
+**Easiest install: the Nuclear Option Mod Manager (NOMM).** Tick NOCustomMaps and the map. Manual install: unzip the
+map's `.nomapz` into `BepInEx/plugins/NOCustomMaps/maps/` (NOCustomMaps 1.4.2 or newer).
 
-| Map | Release tag | File | Size | Registers as |
-|---|---|---|---|---|
-| Taiwan Strait | `taiwanstrait-v0.1.0` | `taiwanstrait.zip` | 0.88 GB | `cm.taiwanstrait` |
-| Korean Peninsula | `korea-v0.1.0` | `korea.zip` | 1.86 GB | `cm.korea` |
-| Falkland Islands | `falklands-v0.1.0` | `falklands.zip` | 0.53 GB | `cm.falklands` |
-| Strait of Hormuz | `hormuz-v0.1.0` | `hormuz.zip` | 1.05 GB | `cm.hormuz` |
-| Lofoten and Narvik | `lofoten-v0.1.0` | `lofoten.zip` | 1.29 GB | `cm.lofoten` |
+**Missions:** each map has four (free flight, a strike, a main battle, PvP escalation). Download the map's
+`<map>-missions.zip` from its release and unzip it into `%USERPROFILE%\AppData\LocalLow\Shockfront\NuclearOption\Missions\`.
+
+| Map | Release tag | Map file | Size | Missions | Registers as |
+|---|---|---|---|---|---|
+| Taiwan Strait | `taiwanstrait-v0.1.0` | `taiwanstrait.zip` | 0.88 GB | `taiwanstrait-missions.zip` | `cm.taiwanstrait` |
+| Korean Peninsula | `korea-v0.1.0` | `korea.zip` | 1.86 GB | `korea-missions.zip` | `cm.korea` |
+| Falkland Islands | `falklands-v0.1.0` | `falklands.zip` | 0.53 GB | `falklands-missions.zip` | `cm.falklands` |
+| Strait of Hormuz | `hormuz-v0.1.0` | `hormuz.zip` | 1.05 GB | `hormuz-missions.zip` | `cm.hormuz` |
+| Lofoten and Narvik | `lofoten-v0.1.0` | `lofoten.zip` | 1.29 GB | `lofoten-missions.zip` | `cm.lofoten` |
 
 The host and every player need the same version of a map.
 
